@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @utkukisakol
+- 👀 I’m interested in sofware
+- 🌱 I’m currently learning C++
+- E-mail = utkukisakol@gmail.com
